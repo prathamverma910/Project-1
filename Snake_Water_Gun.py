@@ -1,3 +1,4 @@
+# This program is the demo of Snake water gun game.
 import random
 
 def gameWin(comp, you):
@@ -44,3 +45,6 @@ elif a:
     print("YOU WIN")
 else:
     print("YOU LOSE!")
+
+
+
